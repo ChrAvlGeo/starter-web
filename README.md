@@ -13,3 +13,7 @@ I am ready to be deployed
 
 ## How to contribute
 There is always a way to contribute
+
+### Copyright
+
+2014 Git.Training.  
