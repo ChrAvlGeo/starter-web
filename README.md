@@ -13,6 +13,7 @@ I am ready to be deployed
 
 ## How to contribute
 There is always a way to contribute
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
