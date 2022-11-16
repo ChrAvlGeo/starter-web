@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This a file about this project. A must read before getting started.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeature too.
 
 ## Introduction
 This is an introduction
